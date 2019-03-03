@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/chst/VScodeProjects/CNN/build",
+  "command": "/usr/bin/clang++-6.0   -isystem /usr/include/opencv  -g   -std=gnu++11 -o CMakeFiles/example-app.dir/layer.cpp.o -c /home/chst/VScodeProjects/CNN/layer.cpp",
+  "file": "/home/chst/VScodeProjects/CNN/layer.cpp"
+},
+{
+  "directory": "/home/chst/VScodeProjects/CNN/build",
+  "command": "/usr/bin/clang++-6.0   -isystem /usr/include/opencv  -g   -std=gnu++11 -o CMakeFiles/example-app.dir/load_data.cpp.o -c /home/chst/VScodeProjects/CNN/load_data.cpp",
+  "file": "/home/chst/VScodeProjects/CNN/load_data.cpp"
+},
+{
+  "directory": "/home/chst/VScodeProjects/CNN/build",
+  "command": "/usr/bin/clang++-6.0   -isystem /usr/include/opencv  -g   -std=gnu++11 -o CMakeFiles/example-app.dir/main.cpp.o -c /home/chst/VScodeProjects/CNN/main.cpp",
+  "file": "/home/chst/VScodeProjects/CNN/main.cpp"
+},
+{
+  "directory": "/home/chst/VScodeProjects/CNN/build",
+  "command": "/usr/bin/clang++-6.0   -isystem /usr/include/opencv  -g   -std=gnu++11 -o CMakeFiles/example-app.dir/network.cpp.o -c /home/chst/VScodeProjects/CNN/network.cpp",
+  "file": "/home/chst/VScodeProjects/CNN/network.cpp"
+},
+{
+  "directory": "/home/chst/VScodeProjects/CNN/build",
+  "command": "/usr/bin/clang++-6.0   -isystem /usr/include/opencv  -g   -std=gnu++11 -o CMakeFiles/example-app.dir/utils.cpp.o -c /home/chst/VScodeProjects/CNN/utils.cpp",
+  "file": "/home/chst/VScodeProjects/CNN/utils.cpp"
+}
+]
