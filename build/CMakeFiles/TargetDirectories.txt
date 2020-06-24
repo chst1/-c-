@@ -1,0 +1,3 @@
+/home/chst/VScodeProjects/CNN/build/CMakeFiles/rebuild_cache.dir
+/home/chst/VScodeProjects/CNN/build/CMakeFiles/example-app.dir
+/home/chst/VScodeProjects/CNN/build/CMakeFiles/edit_cache.dir
